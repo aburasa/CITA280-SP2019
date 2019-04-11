@@ -1,1 +1,1 @@
-This is my test folder
+This is my conflice line test folder
