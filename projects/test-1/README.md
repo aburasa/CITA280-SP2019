@@ -1,1 +1,6 @@
-This is my conflice line in the master branch test folder
+
+
+
+This is my conflice line test folder
+This line in the test-1 branch.
+
